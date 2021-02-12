@@ -11,8 +11,7 @@ public class EnemyMovement : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine(FollowPath());
-        print("Hey I'm back at start");
+
     }
 
     IEnumerator FollowPath()
