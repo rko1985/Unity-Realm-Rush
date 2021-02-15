@@ -21,4 +21,10 @@ public class Waypoint : MonoBehaviour
         );
     }
 
+    public void SetTopColor(Color color)
+    {
+        MeshRenderer topMeshRenderer = transform.Find("Top").GetComponent<MeshRenderer>();
+        topMeshRenderer.material.color = color;
+    }
+
 }
