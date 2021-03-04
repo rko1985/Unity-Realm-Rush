@@ -545,7 +545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4511f53808aafd949b21c72bd49b6162, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  secondsBetweenSpawns: 2
+  secondsBetweenSpawns: 4
   enemyPrefab: {fileID: 533177690, guid: a8b191290d702724d9eaee6d861d68b9, type: 3}
 --- !u!4 &117958991 stripped
 Transform:
