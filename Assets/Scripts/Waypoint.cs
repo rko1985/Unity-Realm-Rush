@@ -12,13 +12,17 @@ public class Waypoint : MonoBehaviour
     Vector2Int gridPos;
 
     const int gridSize = 10;
-    
+
+    private void Start()
+    {
+        Physics.queriesHitTriggers = true;
+    }
+
     public int GetGridSize()
     {
         return gridSize;
     }
 
-    //consider setting own color in Update()
 
     public Vector2Int GetGridPos()
     {
@@ -28,10 +32,9 @@ public class Waypoint : MonoBehaviour
         );
     }
 
-    public void SetTopColor(Color color)
+    void OnMouseOver()
     {
-        MeshRenderer topMeshRenderer = transform.Find("Top").GetComponent<MeshRenderer>();
-        topMeshRenderer.material.color = color;
+        print(gameObject.name);
     }
 
 }
