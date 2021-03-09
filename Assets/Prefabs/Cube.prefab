@@ -155,6 +155,9 @@ MonoBehaviour:
   exploredColor: {r: 0, g: 0, b: 0, a: 0}
   isExplored: 0
   exploredFrom: {fileID: 0}
+  isPlaceable: 1
+  towerPrefab: {fileID: 467589326575032465, guid: 87e49bf0437756043833aa7ac339d613,
+    type: 3}
 --- !u!65 &2153067612914577189
 BoxCollider:
   m_ObjectHideFlags: 0
