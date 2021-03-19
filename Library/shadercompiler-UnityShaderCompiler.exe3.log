@@ -1,0 +1,125 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2018.4.21f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at MultiScaleVORender.compute(30): failed to open source file: 'Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl'
+  api=4 insize=10935 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Lut3DBaker.compute(1): failed to open source file: 'Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl'
+  api=4 insize=5017 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at MultiScaleVOUpsample.compute(37): failed to open source file: 'Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl'
+  api=4 insize=18353 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at MultiScaleVOUpsample.compute(37): failed to open source file: 'Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl'
+  api=4 insize=18353 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at MultiScaleVOUpsample.compute(37): failed to open source file: 'Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl'
+  api=4 insize=18353 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Lut3DBaker.compute(1): failed to open source file: 'Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl'
+  api=4 insize=5017 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at MultiScaleVODownsample1.compute(28): failed to open source file: 'Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl'
+  api=4 insize=3450 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at MultiScaleVOUpsample.compute(37): failed to open source file: 'Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl'
+  api=4 insize=18353 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at ExposureHistogram.compute(7): failed to open source file: 'Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl'
+  api=4 insize=3246 outsize=0 ok=0
+Cmd: compileComputeKernel
+  error: 2 plat 4 at MultiScaleVODownsample2.compute(28): failed to open source file: 'Packages/com.unity.postprocessing/PostProcessing/Shaders/StdLib.hlsl'
+  api=4 insize=2098 outsize=0 ok=0
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=1176 outsize=781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10881 outsize=9849 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4845 outsize=9129 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18299 outsize=8681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18299 outsize=10469 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1454 outsize=597 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18353 outsize=8781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18353 outsize=10469 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10935 outsize=9693 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2167 outsize=349 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5017 outsize=5437 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1230 outsize=781 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=1226 outsize=781 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3158 outsize=47805 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=11176 outsize=9849 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5032 outsize=5437 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=8693 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=8925 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18731 outsize=10769 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=2120 outsize=1037 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=2023 outsize=349 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=7328 outsize=9833 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4913 outsize=4101 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9225 outsize=8677 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=1759 outsize=553 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=2023 outsize=349 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=4913 outsize=5397 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=9225 outsize=8529 ok=1
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=3190 outsize=48145 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=10935 outsize=10437 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=5017 outsize=9169 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=3450 outsize=2681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18337 outsize=8681 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18337 outsize=8925 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=18337 outsize=10549 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
